@@ -1,13 +1,8 @@
 body{
     background: white;
-    width: 75%;
+    width: 100%;
     margin: auto;
 }
-
-/*
-.tagline-bg img {
-    object-fit: cover;
-} */
 
 .nav {
     align-items: center;
@@ -27,4 +22,13 @@ body{
 
 .borde-foto {
     border: 0;
+}
+
+.separador {
+    margin: 50px 0;
+    border-bottom: 1px solid lightgray;
+}
+
+.content {
+    width: 85%;
 }
